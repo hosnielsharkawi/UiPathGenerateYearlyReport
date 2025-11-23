@@ -1,0 +1,54 @@
+{
+  "$schema": "https://cloud.uipath.com/draft/2024-12/entry-point",
+  "entryPoints": [
+    {
+      "filePath": "AcmeSystem\\MergeFiles.cs",
+      "uniqueId": "a174aa26-24e7-4eba-a17c-52b1ee5d33ca",
+      "type": "process",
+      "input": {
+        "type": "object",
+        "properties": {
+          "reportFolder": {
+            "type": "string"
+          },
+          "taxId": {
+            "type": "string"
+          },
+          "year": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "reportFolder",
+          "taxId",
+          "year"
+        ]
+      },
+      "output": {
+        "type": "object",
+        "properties": {
+          "Output": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    {
+      "filePath": "Main.xaml",
+      "uniqueId": "4793fa96-c30c-4d8d-8f26-cc7dd2754897",
+      "type": "process",
+      "input": {
+        "type": "object",
+        "properties": {
+          "in_OrchestratorQueueName": {
+            "type": "string"
+          },
+          "in_OrchestratorQueueFolder": {
+            "type": "string"
+          }
+        },
+        "required": []
+      }
+    }
+  ]
+}

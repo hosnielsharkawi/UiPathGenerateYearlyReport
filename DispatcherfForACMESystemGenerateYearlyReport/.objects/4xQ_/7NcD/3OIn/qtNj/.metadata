@@ -1,0 +1,14 @@
+﻿{
+  "Name": "TaxID DE456232 Name P…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "qtNjA_WIJEC6V3E13d7PNg",
+  "Reference": "ZWx_c_eSkU-ngsBnYhkSCw/qtNjA_WIJEC6V3E13d7PNg",
+  "ParentRef": "ZWx_c_eSkU-ngsBnYhkSCw/3OInasxTfkWJZONe7IOrjQ",
+  "Created": "2025-11-18T20:29:54.7539508Z",
+  "Updated": "2025-11-18T20:29:54.7539508Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.19.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

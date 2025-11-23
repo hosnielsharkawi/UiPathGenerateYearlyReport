@@ -1,0 +1,6 @@
+{
+  "Name": "PerformerfForACMESystemGenerateYearlyReport",
+  "ProjectType": "Process",
+  "Description": "Performer that pull items from Queue and update acme clients data",
+  "MainFile": "Main.xaml"
+}

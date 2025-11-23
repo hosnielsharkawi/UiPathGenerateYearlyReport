@@ -1,0 +1,250 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DispatcherfForACMESystemGenerateYearlyReport.Core</name>
+    </assembly>
+    <members>
+        <member name="M:DispatcherfForACMESystemGenerateYearlyReport.WorkflowRunnerService.CloseAllApplications(System.Collections.Generic.Dictionary{System.String,System.Object},System.Boolean)">
+            <summary>
+            Invokes the Framework/CloseAllApplications.xaml
+            </summary>
+            <param name="isolated">Indicates whether to isolate executions (run them within a different process)</param>
+        </member>
+        <member name="M:DispatcherfForACMESystemGenerateYearlyReport.WorkflowRunnerService.CloseAllApplications(System.Collections.Generic.Dictionary{System.String,System.Object})">
+            <summary>
+            Invokes the Framework/CloseAllApplications.xaml
+            </summary>
+        </member>
+        <member name="M:DispatcherfForACMESystemGenerateYearlyReport.WorkflowRunnerService.CloseBrowser(System.Collections.Generic.Dictionary{System.String,System.Object},System.Boolean)">
+            <summary>
+            Invokes the ACMESystem/CloseBrowser.xaml
+            </summary>
+            <param name="isolated">Indicates whether to isolate executions (run them within a different process)</param>
+        </member>
+        <member name="M:DispatcherfForACMESystemGenerateYearlyReport.WorkflowRunnerService.CloseBrowser(System.Collections.Generic.Dictionary{System.String,System.Object})">
+            <summary>
+            Invokes the ACMESystem/CloseBrowser.xaml
+            </summary>
+        </member>
+        <member name="M:DispatcherfForACMESystemGenerateYearlyReport.WorkflowRunnerService.ExtractClientInfoData(System.Collections.Generic.Dictionary{System.String,System.Object},System.Data.DataTable,System.Boolean)">
+            <summary>
+            Invokes the ACMESystem/ExtractClientInfoData.xaml
+            </summary>
+            <param name="isolated">Indicates whether to isolate executions (run them within a different process)</param>
+        </member>
+        <member name="M:DispatcherfForACMESystemGenerateYearlyReport.WorkflowRunnerService.ExtractClientInfoData(System.Collections.Generic.Dictionary{System.String,System.Object},System.Data.DataTable)">
+            <summary>
+            Invokes the ACMESystem/ExtractClientInfoData.xaml
+            </summary>
+        </member>
+        <member name="M:DispatcherfForACMESystemGenerateYearlyReport.WorkflowRunnerService.ExtractWorkItemsTable(System.Collections.Generic.Dictionary{System.String,System.Object},System.Boolean)">
+            <summary>
+            Invokes the ACMESystem/ExtractWorkItemsTable.xaml
+            </summary>
+            <param name="isolated">Indicates whether to isolate executions (run them within a different process)</param>
+        </member>
+        <member name="M:DispatcherfForACMESystemGenerateYearlyReport.WorkflowRunnerService.ExtractWorkItemsTable(System.Collections.Generic.Dictionary{System.String,System.Object})">
+            <summary>
+            Invokes the ACMESystem/ExtractWorkItemsTable.xaml
+            </summary>
+        </member>
+        <member name="M:DispatcherfForACMESystemGenerateYearlyReport.WorkflowRunnerService.GetTransactionData(System.Int32,System.Collections.Generic.Dictionary{System.String,System.Object},System.Data.DataTable,System.Boolean)">
+            <summary>
+            Invokes the Framework/GetTransactionData.xaml
+            </summary>
+            <param name="isolated">Indicates whether to isolate executions (run them within a different process)</param>
+        </member>
+        <member name="M:DispatcherfForACMESystemGenerateYearlyReport.WorkflowRunnerService.GetTransactionData(System.Int32,System.Collections.Generic.Dictionary{System.String,System.Object},System.Data.DataTable)">
+            <summary>
+            Invokes the Framework/GetTransactionData.xaml
+            </summary>
+        </member>
+        <member name="M:DispatcherfForACMESystemGenerateYearlyReport.WorkflowRunnerService.GetTransactionDataTestCase(System.Boolean)">
+            <summary>
+            Invokes the Tests/GetTransactionDataTestCase.xaml
+            </summary>
+            <param name="isolated">Indicates whether to isolate executions (run them within a different process)</param>
+        </member>
+        <member name="M:DispatcherfForACMESystemGenerateYearlyReport.WorkflowRunnerService.GetTransactionDataTestCase">
+            <summary>
+            Invokes the Tests/GetTransactionDataTestCase.xaml
+            </summary>
+        </member>
+        <member name="M:DispatcherfForACMESystemGenerateYearlyReport.WorkflowRunnerService.InitAllApplications(System.Collections.Generic.Dictionary{System.String,System.Object},System.Boolean)">
+            <summary>
+            Invokes the Framework/InitAllApplications.xaml
+            </summary>
+            <param name="isolated">Indicates whether to isolate executions (run them within a different process)</param>
+        </member>
+        <member name="M:DispatcherfForACMESystemGenerateYearlyReport.WorkflowRunnerService.InitAllApplications(System.Collections.Generic.Dictionary{System.String,System.Object})">
+            <summary>
+            Invokes the Framework/InitAllApplications.xaml
+            </summary>
+        </member>
+        <member name="M:DispatcherfForACMESystemGenerateYearlyReport.WorkflowRunnerService.InitAllApplicationsTestCase(System.Boolean)">
+            <summary>
+            Invokes the Tests/InitAllApplicationsTestCase.xaml
+            </summary>
+            <param name="isolated">Indicates whether to isolate executions (run them within a different process)</param>
+        </member>
+        <member name="M:DispatcherfForACMESystemGenerateYearlyReport.WorkflowRunnerService.InitAllApplicationsTestCase">
+            <summary>
+            Invokes the Tests/InitAllApplicationsTestCase.xaml
+            </summary>
+        </member>
+        <member name="M:DispatcherfForACMESystemGenerateYearlyReport.WorkflowRunnerService.InitAllSettings(System.String,System.String[],System.Boolean)">
+            <summary>
+            Invokes the Framework/InitAllSettings.xaml
+            </summary>
+            <param name="isolated">Indicates whether to isolate executions (run them within a different process)</param>
+        </member>
+        <member name="M:DispatcherfForACMESystemGenerateYearlyReport.WorkflowRunnerService.InitAllSettings(System.String,System.String[])">
+            <summary>
+            Invokes the Framework/InitAllSettings.xaml
+            </summary>
+        </member>
+        <member name="M:DispatcherfForACMESystemGenerateYearlyReport.WorkflowRunnerService.InitAllSettingsTestCase(System.Boolean)">
+            <summary>
+            Invokes the Tests/InitAllSettingsTestCase.xaml
+            </summary>
+            <param name="isolated">Indicates whether to isolate executions (run them within a different process)</param>
+        </member>
+        <member name="M:DispatcherfForACMESystemGenerateYearlyReport.WorkflowRunnerService.InitAllSettingsTestCase">
+            <summary>
+            Invokes the Tests/InitAllSettingsTestCase.xaml
+            </summary>
+        </member>
+        <member name="M:DispatcherfForACMESystemGenerateYearlyReport.WorkflowRunnerService.KillAllProcesses(System.Boolean)">
+            <summary>
+            Invokes the Framework/KillAllProcesses.xaml
+            </summary>
+            <param name="isolated">Indicates whether to isolate executions (run them within a different process)</param>
+        </member>
+        <member name="M:DispatcherfForACMESystemGenerateYearlyReport.WorkflowRunnerService.KillAllProcesses">
+            <summary>
+            Invokes the Framework/KillAllProcesses.xaml
+            </summary>
+        </member>
+        <member name="M:DispatcherfForACMESystemGenerateYearlyReport.WorkflowRunnerService.LoginPage(System.Collections.Generic.Dictionary{System.String,System.Object},System.Boolean)">
+            <summary>
+            Invokes the ACMESystem/LoginPage.xaml
+            </summary>
+            <param name="isolated">Indicates whether to isolate executions (run them within a different process)</param>
+        </member>
+        <member name="M:DispatcherfForACMESystemGenerateYearlyReport.WorkflowRunnerService.LoginPage(System.Collections.Generic.Dictionary{System.String,System.Object})">
+            <summary>
+            Invokes the ACMESystem/LoginPage.xaml
+            </summary>
+        </member>
+        <member name="M:DispatcherfForACMESystemGenerateYearlyReport.WorkflowRunnerService.Main(System.String,System.String,System.Boolean)">
+            <summary>
+            Invokes the Main.xaml
+            </summary>
+            <param name="isolated">Indicates whether to isolate executions (run them within a different process)</param>
+        </member>
+        <member name="M:DispatcherfForACMESystemGenerateYearlyReport.WorkflowRunnerService.Main(System.String,System.String)">
+            <summary>
+            Invokes the Main.xaml
+            </summary>
+        </member>
+        <member name="M:DispatcherfForACMESystemGenerateYearlyReport.WorkflowRunnerService.MainTestCase(System.Boolean)">
+            <summary>
+            Invokes the Tests/MainTestCase.xaml
+            </summary>
+            <param name="isolated">Indicates whether to isolate executions (run them within a different process)</param>
+        </member>
+        <member name="M:DispatcherfForACMESystemGenerateYearlyReport.WorkflowRunnerService.MainTestCase">
+            <summary>
+            Invokes the Tests/MainTestCase.xaml
+            </summary>
+        </member>
+        <member name="M:DispatcherfForACMESystemGenerateYearlyReport.WorkflowRunnerService.openBrowser(System.Collections.Generic.Dictionary{System.String,System.Object},System.Boolean)">
+            <summary>
+            Invokes the ACMESystem/openBrowser.xaml
+            </summary>
+            <param name="isolated">Indicates whether to isolate executions (run them within a different process)</param>
+        </member>
+        <member name="M:DispatcherfForACMESystemGenerateYearlyReport.WorkflowRunnerService.openBrowser(System.Collections.Generic.Dictionary{System.String,System.Object})">
+            <summary>
+            Invokes the ACMESystem/openBrowser.xaml
+            </summary>
+        </member>
+        <member name="M:DispatcherfForACMESystemGenerateYearlyReport.WorkflowRunnerService.Process(UiPath.Core.QueueItem,System.Collections.Generic.Dictionary{System.String,System.Object},System.Boolean)">
+            <summary>
+            Invokes the Framework/Process.xaml
+            </summary>
+            <param name="isolated">Indicates whether to isolate executions (run them within a different process)</param>
+        </member>
+        <member name="M:DispatcherfForACMESystemGenerateYearlyReport.WorkflowRunnerService.Process(UiPath.Core.QueueItem,System.Collections.Generic.Dictionary{System.String,System.Object})">
+            <summary>
+            Invokes the Framework/Process.xaml
+            </summary>
+        </member>
+        <member name="M:DispatcherfForACMESystemGenerateYearlyReport.WorkflowRunnerService.ProcessTestCase(System.Boolean)">
+            <summary>
+            Invokes the Tests/ProcessTestCase.xaml
+            </summary>
+            <param name="isolated">Indicates whether to isolate executions (run them within a different process)</param>
+        </member>
+        <member name="M:DispatcherfForACMESystemGenerateYearlyReport.WorkflowRunnerService.ProcessTestCase">
+            <summary>
+            Invokes the Tests/ProcessTestCase.xaml
+            </summary>
+        </member>
+        <member name="M:DispatcherfForACMESystemGenerateYearlyReport.WorkflowRunnerService.RegexForClientData(System.String,System.Boolean)">
+            <summary>
+            Invokes the ACMESystem/RegexForClientData.cs
+            </summary>
+            <param name="isolated">Indicates whether to isolate executions (run them within a different process)</param>
+        </member>
+        <member name="M:DispatcherfForACMESystemGenerateYearlyReport.WorkflowRunnerService.RegexForClientData(System.String)">
+            <summary>
+            Invokes the ACMESystem/RegexForClientData.cs
+            </summary>
+        </member>
+        <member name="M:DispatcherfForACMESystemGenerateYearlyReport.WorkflowRunnerService.RetryCurrentTransaction(System.Collections.Generic.Dictionary{System.String,System.Object},System.Exception,System.Boolean,System.Int32,System.Int32,System.Boolean)">
+            <summary>
+            Invokes the Framework/RetryCurrentTransaction.xaml
+            </summary>
+            <param name="isolated">Indicates whether to isolate executions (run them within a different process)</param>
+        </member>
+        <member name="M:DispatcherfForACMESystemGenerateYearlyReport.WorkflowRunnerService.RetryCurrentTransaction(System.Collections.Generic.Dictionary{System.String,System.Object},System.Exception,System.Boolean,System.Int32,System.Int32)">
+            <summary>
+            Invokes the Framework/RetryCurrentTransaction.xaml
+            </summary>
+        </member>
+        <member name="M:DispatcherfForACMESystemGenerateYearlyReport.WorkflowRunnerService.SetTransactionStatus(UiPath.Core.BusinessRuleException,System.String,System.String,System.String,System.Exception,System.Collections.Generic.Dictionary{System.String,System.Object},UiPath.Core.QueueItem,System.Int32,System.Int32,System.Int32,System.Boolean)">
+            <summary>
+            Invokes the Framework/SetTransactionStatus.xaml
+            </summary>
+            <param name="isolated">Indicates whether to isolate executions (run them within a different process)</param>
+        </member>
+        <member name="M:DispatcherfForACMESystemGenerateYearlyReport.WorkflowRunnerService.SetTransactionStatus(UiPath.Core.BusinessRuleException,System.String,System.String,System.String,System.Exception,System.Collections.Generic.Dictionary{System.String,System.Object},UiPath.Core.QueueItem,System.Int32,System.Int32,System.Int32)">
+            <summary>
+            Invokes the Framework/SetTransactionStatus.xaml
+            </summary>
+        </member>
+        <member name="M:DispatcherfForACMESystemGenerateYearlyReport.WorkflowRunnerService.TakeScreenshot(System.String,System.String,System.Boolean)">
+            <summary>
+            Invokes the Framework/TakeScreenshot.xaml
+            </summary>
+            <param name="isolated">Indicates whether to isolate executions (run them within a different process)</param>
+        </member>
+        <member name="M:DispatcherfForACMESystemGenerateYearlyReport.WorkflowRunnerService.TakeScreenshot(System.String,System.String)">
+            <summary>
+            Invokes the Framework/TakeScreenshot.xaml
+            </summary>
+        </member>
+        <member name="M:DispatcherfForACMESystemGenerateYearlyReport.WorkflowRunnerService.WorkflowTestCaseTemplate(System.Boolean)">
+            <summary>
+            Invokes the Tests/WorkflowTestCaseTemplate.xaml
+            </summary>
+            <param name="isolated">Indicates whether to isolate executions (run them within a different process)</param>
+        </member>
+        <member name="M:DispatcherfForACMESystemGenerateYearlyReport.WorkflowRunnerService.WorkflowTestCaseTemplate">
+            <summary>
+            Invokes the Tests/WorkflowTestCaseTemplate.xaml
+            </summary>
+        </member>
+    </members>
+</doc>

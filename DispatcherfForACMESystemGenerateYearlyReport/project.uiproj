@@ -1,0 +1,6 @@
+{
+  "Name": "DispatcherfForACMESystemGenerateYearlyReport",
+  "ProjectType": "Process",
+  "Description": "extract clients WI4 and upload items to queue ",
+  "MainFile": "Main.xaml"
+}
