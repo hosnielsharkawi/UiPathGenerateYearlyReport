@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="PKlgSlA1bEGEWjR9-5hxkA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
-  <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/reports/download" CVScreenId="3de6ae9d-4b7e-4493-913b-ad126fece94f" DesignTimeRectangle="1154, 222, 83, 42" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;ctrl name='acme-test.uipath.com says' role='dialog' /&gt;&lt;ctrl name='OK' role='push button' /&gt;" Guid="a8d5f9e1-2f63-407b-8214-2b48bf6db92a" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='ACME System 1 - Download Monthly Report - Hosny_dell - Microsoft*' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
-      <imageRef attrName="InformativeScreenshot" originalValue="9b062c0efaf93bab5a86726141eeee45.png" xmlns="">0qp9w7EoSEUaDYWi0X-WQpQ</imageRef>
-    </TargetAnchorable>
-    <x:String x:Key="ActivityType">Click</x:String>
-  </ObjectRepositoryTargetData.Data>
-</ObjectRepositoryTargetData>

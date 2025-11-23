@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="jZkXJQ4eF0evDQVpLYHNAQ" Reference="HwkijUt3IkKlwyshYzTYCA/VX69y8CwWkq90qLveozRvg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
-  <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/home" CVScreenId="9cbb46a4-6e2a-4270-a950-7a7e431faddb" DesignTimeRectangle="1620, 104, 103, 64" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='Log Out' parentid='bs-example-navbar-collapse-1' tag='A' /&gt;" Guid="b5fd573b-0abb-4292-8182-41186003ca8f" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Dashboard' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
-      <imageRef attrName="InformativeScreenshot" originalValue="8937cab7d4996f4a1d76248cfc57d641.png" xmlns="">0fpGElEKig0qyIogMfz8wGA</imageRef>
-    </TargetAnchorable>
-    <x:String x:Key="ActivityType">Click</x:String>
-  </ObjectRepositoryTargetData.Data>
-</ObjectRepositoryTargetData>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="3hF_JJpLVkWgUjdJgjNp5w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
-  <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/reports/upload" CVScreenId="45d62331-d17b-420c-a5a1-7e87b6baf81e" DesignTimeRectangle="695, 537, 110, 33" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;wnd ctrlid='1' title='&amp;amp;Open' /&gt;" Guid="d6096c43-fed2-4674-9556-cbe26a2f3251" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='#32770' title='Open' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
-      <imageRef attrName="InformativeScreenshot" originalValue="0894869e7bc61b9bfecd25e11af9b4ac.png" xmlns="">0rjqJjD_ehEmruBGXxsYeSw</imageRef>
-    </TargetAnchorable>
-    <x:String x:Key="ActivityType">Click</x:String>
-  </ObjectRepositoryTargetData.Data>
-</ObjectRepositoryTargetData>

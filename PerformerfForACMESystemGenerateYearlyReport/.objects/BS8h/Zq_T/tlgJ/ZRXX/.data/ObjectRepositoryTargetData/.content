@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="UDkYLjMDAkWbqosMtiyp_A" Reference="HwkijUt3IkKlwyshYzTYCA/ZRXXidXTx0OojykhoiY_sg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
-  <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/login" CVScreenId="2f9af5f7-cd05-4021-94bd-108d042ab563" DesignTimeRectangle="236, 220, 1467, 63" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl visibleinnertext='Login' /&gt;" Guid="9921b81b-59bf-4986-ad76-6ccdbd5c8318" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Log In' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="None">
-      <imageRef attrName="InformativeScreenshot" originalValue="14da8f838c487e6dfc820996b155645c.png" xmlns="">0gMmsIuvB_EWXoU5Dy9Clgw</imageRef>
-    </TargetAnchorable>
-    <x:String x:Key="ActivityType">CheckState</x:String>
-  </ObjectRepositoryTargetData.Data>
-</ObjectRepositoryTargetData>

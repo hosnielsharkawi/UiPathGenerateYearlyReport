@@ -1,0 +1,10 @@
+.local/
+.settings/
+.screens/
+.objects/
+*.nupkg
+/packages
+/nugets
+.project/
+.classpath/
+thumbs.db

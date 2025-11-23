@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="bX4nqzSfl0ynN-XLefAYsg" Reference="HwkijUt3IkKlwyshYzTYCA/7rz_SEsrIk2_c44g6UVCqw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
-  <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com" CVScreenId="3ccc4ea0-9708-4af1-bbf8-3817d5e4d5f8" CvTextArea="225, 224, 227, 38" CvTextArgument="Dashboard" CvType="Text" DesignTimeRectangle="226, 220, 1468, 63" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl visibleinnertext='Dashboard' /&gt;" Guid="66113348-6841-4712-a17e-964c24f93acd" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Dashboard' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="None">
-      <imageRef attrName="InformativeScreenshot" originalValue="2b9970c7e3aa08bce5974a208535be69.png" xmlns="">0e4fY0TlrEEWgLBQt3P1-tw</imageRef>
-    </TargetAnchorable>
-    <x:String x:Key="ActivityType">CheckState</x:String>
-  </ObjectRepositoryTargetData.Data>
-</ObjectRepositoryTargetData>
